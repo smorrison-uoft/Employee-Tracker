@@ -10,3 +10,6 @@ The Employee Tracker Application is a command-line/terminal application used to 
 <img width="569" alt="Screen Shot 2020-08-22 at 9 23 21 AM" src="https://user-images.githubusercontent.com/64607428/91318458-3ee5ba00-e789-11ea-9b7e-35bb4d3a10e5.png">
 
 <img width="405" alt="Screen Shot 2020-08-22 at 9 22 46 AM" src="https://user-images.githubusercontent.com/64607428/91318467-41481400-e789-11ea-861d-b6e952362b5b.png">
+
+
+https://media.giphy.com/media/YMLRIMwBlejDXImWMC/giphy.gif
